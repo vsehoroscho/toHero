@@ -1,0 +1,117 @@
+body{
+  width:1000px;
+  background-color:#c6e2ff;
+}
+
+div{
+  width:250px;
+  height:400px;
+  display:inline-block;
+  position:relative;
+  margin:40px;
+  overflow:hidden;
+  font-family:Calibri;
+  font-weight:bold;
+  box-shadow: 2px 2px 2px #b8babc;
+}
+
+.left{
+  float:left;
+  background-image:url("https://pp.vk.me/c636827/v636827513/361df/AGaFjZ1heiM.jpg");
+  background-size:cover;
+  color:white;
+  font-family:Calibri;
+  font-size:10pt;
+}
+
+p{
+  font-size:20pt;
+  font-weight:bold;
+  margin-left:30px;
+  margin-top:10px;
+}
+
+#mark{
+  margin-left:30px;
+  margin-top:155px;
+  font-size:6pt;
+  font-weight:normal;
+}
+
+button{
+  margin-left:30px;
+  margin-top:-15px;
+  font-family:Calibri;
+  font-weight:bold;
+}
+.center{
+  background-color:#fdfafa;
+}
+
+.right{
+  background-color:white;
+}
+
+.bottom{
+  position:relative;
+  background-color:white;
+  width:250px;
+  height:40px;
+  margin-top:-45px;
+  display:inline-block;
+  overflow:hidden;
+  font-weight:bold; 
+}
+
+.bt-left{
+  float:left;
+}
+
+.bt-p{
+  font-size:10pt;
+  font-family:Calibri;
+  margin-left:30px;
+}
+
+.text{
+  font-weight:normal;
+  font-size:10pt;
+  text-align:left;
+  margin-left:25px;
+  margin-right:25px;
+  margin-top:25px;
+  color:grey;
+  line-height:1.5;
+  font-family:FrankRuehl;
+}
+/*.T{
+  height:30px;
+  width:30px;
+  font-weight:bold;
+  color:black;
+  font-size:25pt;
+  float:left;
+  margin-right:px;
+  margin-top:px;
+  text-align:center;
+  background-color:red;
+  margin:10px;
+}*/
+.comments{
+  font-size:12pt;
+  margin-left:40px;
+}
+ul{
+  margin-left:-15px;
+}
+
+li{
+    margin-top:-10px;
+    color:grey;
+}
+
+.circle{
+  border-radius:50%;
+  width:15%;
+  height:auto;
+}
